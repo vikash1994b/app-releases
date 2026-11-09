@@ -1,0 +1,9 @@
+# App releases
+
+Installable builds of my Android apps. Each app reads only its own releases, by tag prefix:
+
+| App | Tag prefix |
+|---|---|
+| Lo Shu Grid | `loshu-v` |
+
+Installed apps check this page for updates and offer the newest version.
