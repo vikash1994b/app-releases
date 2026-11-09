@@ -5,6 +5,7 @@ Installable builds of my Android apps. Each app reads only its own releases, by 
 | App | Tag prefix |
 |---|---|
 | Lo Shu Grid | `loshu-v` |
+| MathSprint | `math-v` |
 | Rent | `rent-v` |
 | Salary Tracker | `salary-v` |
 
