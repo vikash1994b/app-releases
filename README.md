@@ -5,5 +5,6 @@ Installable builds of my Android apps. Each app reads only its own releases, by 
 | App | Tag prefix |
 |---|---|
 | Lo Shu Grid | `loshu-v` |
+| Rent | `rent-v` |
 
 Installed apps check this page for updates and offer the newest version.
